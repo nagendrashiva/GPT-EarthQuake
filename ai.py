@@ -2,7 +2,7 @@ import openai
 import tiktoken
 import prompts as pr
 
-selected_model = "gpt-3.5-turbo"
+selected_model = "gpt-3.5"
 openai.api_key = "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"
 
 
