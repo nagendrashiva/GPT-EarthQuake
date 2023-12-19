@@ -3,7 +3,7 @@ import tiktoken
 import prompts as pr
 
 selected_model = "gpt-3.5-turbo"
-openai.api_key = "sk-XXXX"
+openai.api_key = "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"
 
 
 def generate_text_with_openai(user_prompt):
