@@ -4,7 +4,7 @@ import report as rp
 import ai as ai
 
 
-topic = input("Please enter a topic: ")
+topic = input("generate instagram titles ")
 
 print("Searching....")
 #scrape top 100 google results for each topic
